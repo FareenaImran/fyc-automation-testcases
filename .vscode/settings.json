@@ -1,0 +1,20 @@
+{
+    "python.analysis.indexing": false,
+    "typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": false,
+
+
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/__init__.py":true
+    },
+    "search.exclude": {
+        "**/__pycache__": true,
+        "**/__init__.py":true
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+
+
+   
+    
+}

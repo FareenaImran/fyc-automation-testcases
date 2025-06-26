@@ -1,0 +1,19 @@
+# Core testing framework
+pytest>=7.4.4
+
+# Selenium for browser automation
+selenium>=4.19.0
+
+# urllib3 version compatible with requests & Selenium
+urllib3==1.26.18
+
+# requests library (commonly used and indirectly needed)
+requests==2.31.0
+
+# For managing environment variables
+python-dotenv>=1.1.0
+
+# Optional: colored output, HTML reports, etc.
+pytest-html>=4.1.1
+pytest-xdist>=3.3.1
+pytest-xdist==3.3.1
