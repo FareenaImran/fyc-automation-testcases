@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4765","test_learner_dashboard_menu_options","test.test_ui.learner.ui_navigation_flow.dashboard","Fri Jun 27 02:29:45 PKT 2025","passed","Fri Jun 27 02:29:50 PKT 2025","TestLearnerDashboard","test_menu_navigation_flow","",""
+"","11499","test_verify_login_with_valid_credentials[learner]","test.tests_smoke.test_authentication","Fri Jun 27 02:32:49 PKT 2025","passed","Fri Jun 27 02:33:00 PKT 2025","TestAuthentication","test_each_role_login_with_valid_credentials","",""
+"","88115","test_all_tps_count","test.test_ui.admin.ui_validations.admin_tp","Fri Jun 27 02:27:53 PKT 2025","passed","Fri Jun 27 02:29:22 PKT 2025","TestAllTPs","test_all_tabs_count","",""
+"","11310","test_verify_login_with_valid_credentials[trainer]","test.tests_smoke.test_authentication","Fri Jun 27 02:33:10 PKT 2025","passed","Fri Jun 27 02:33:21 PKT 2025","TestAuthentication","test_each_role_login_with_valid_credentials","",""
+"","106876","test_flow","test.tests_regression.learner.course_detail_page","Fri Jun 27 02:30:38 PKT 2025","passed","Fri Jun 27 02:32:25 PKT 2025","TestEnquiryFlows","test_enquiry_flow","",""
+"","11174","test_trainer_menu_options","test.test_ui.trainer.ui_navigation_flow.dashboard","Fri Jun 27 02:30:17 PKT 2025","passed","Fri Jun 27 02:30:28 PKT 2025","TestTPDashboard","test_tp_menu_navigation_flow","",""
+"","9354","test_verify_login_with_valid_credentials[admin]","test.tests_smoke.test_authentication","Fri Jun 27 02:33:31 PKT 2025","passed","Fri Jun 27 02:33:40 PKT 2025","TestAuthentication","test_each_role_login_with_valid_credentials","",""
