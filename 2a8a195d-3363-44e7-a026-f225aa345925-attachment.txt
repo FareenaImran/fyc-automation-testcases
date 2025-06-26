@@ -1,0 +1,5 @@
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'fyctest5401+3@gmail.com' into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'betatp2tp2' into element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: fyctest5401+3@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit' and text()='Continue']")
+[32mINFO    [0m LoginPage:login_page.py:28 Clicked on TP login button
