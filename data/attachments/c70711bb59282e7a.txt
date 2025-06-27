@@ -1,0 +1,35 @@
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'fyctest5401+4@gmail.com' into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'betatp3tp3' into element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: fyctest5401+4@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit' and text()='Continue']")
+[32mINFO    [0m LoginPage:login_page.py:28 Clicked on TP login button
+[32mINFO    [0m TPDashboardPage:base_page.py:55 
+Modal was not present
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'fyctest5401+5@gmail.com' into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'betatp4tp4' into element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: fyctest5401+5@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit' and text()='Continue']")
+[32mINFO    [0m LoginPage:login_page.py:28 Clicked on TP login button
+[32mINFO    [0m TPDashboardPage:base_page.py:55 
+Modal was not present
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Courses']]")
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'fyctest5401+15@gmail.com' into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'betatp15tp15' into element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: fyctest5401+15@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit' and text()='Continue']")
+[32mINFO    [0m LoginPage:login_page.py:28 Clicked on TP login button
+[32mINFO    [0m TPDashboardPage:base_page.py:55 
+Modal was not present
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Courses']]")
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'unit-how@gnjvogqr.mailosaur.net' into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'l10l10l10l10' into element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: unit-how@gnjvogqr.mailosaur.net
+[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit']")
+[32mINFO    [0m LoginPage:login_page.py:19 Clicked on continue button
+[32mINFO    [0m EnquiryModal:base_page.py:20 Clicked element: ('xpath', "//button[text()='Learn More']")
+[32mINFO    [0m EnquiryModal:base_page.py:20 Clicked element: ('xpath', "//button[text()='Send Enquiry']")
+[32mINFO    [0m TPEnquiriesPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Learners']]")
+[32mINFO    [0m TPEnquiriesPage:base_page.py:20 Clicked element: ('xpath', "//button[contains(.,'Enquiries')]")
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:824 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028DD7ECFD40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7fb160120d83168f77b9e81704ee62d5
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:824 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028DD7ECFF20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7fb160120d83168f77b9e81704ee62d5
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:824 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028DD7F21970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7fb160120d83168f77b9e81704ee62d5

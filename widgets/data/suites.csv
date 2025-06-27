@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","90352","test_all_tps_count","test.test_ui.admin.ui_validations.admin_tp","Fri Jun 27 11:44:32 PKT 2025","passed","Fri Jun 27 11:46:02 PKT 2025","TestAllTPs","test_all_tabs_count","",""

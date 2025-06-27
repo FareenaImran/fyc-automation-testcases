@@ -1,0 +1,12 @@
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'fyctest5401+5@gmail.com' into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:30 Entered 'betatp4tp4' into element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: fyctest5401+5@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit' and text()='Continue']")
+[32mINFO    [0m LoginPage:login_page.py:28 Clicked on TP login button
+[32mINFO    [0m BasePage:base_page.py:55 
+Modal was not present
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Dashboard']]")
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Profile']]")
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Courses']]")
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Learners']]")
+[32mINFO    [0m TPDashboardPage:base_page.py:20 Clicked element: ('xpath', "//button[.//span[text()='Settings']]")
