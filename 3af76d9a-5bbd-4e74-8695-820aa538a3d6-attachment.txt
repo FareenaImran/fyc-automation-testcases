@@ -1,5 +1,0 @@
-[32mINFO    [0m LoginPage:base_page.py:30 Entered 'fyctest5401+10@gmail.com' into element: ('id', 'email')
-[32mINFO    [0m LoginPage:base_page.py:30 Entered 'l16l16l16l16' into element: ('id', 'password')
-[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: fyctest5401+10@gmail.com
-[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit']")
-[32mINFO    [0m LoginPage:login_page.py:19 Clicked on continue button

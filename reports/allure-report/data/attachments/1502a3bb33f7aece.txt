@@ -1,5 +1,0 @@
-[32mINFO    [0m LoginPage:base_page.py:30 Entered 'pain-similar@gnjvogqr.mailosaur.net' into element: ('id', 'email')
-[32mINFO    [0m LoginPage:base_page.py:30 Entered 'l7l7l7l7' into element: ('id', 'password')
-[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: pain-similar@gnjvogqr.mailosaur.net
-[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit']")
-[32mINFO    [0m LoginPage:login_page.py:19 Clicked on continue button

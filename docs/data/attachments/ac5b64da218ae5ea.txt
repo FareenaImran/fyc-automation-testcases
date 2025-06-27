@@ -1,5 +1,0 @@
-[32mINFO    [0m LoginPage:base_page.py:30 Entered 'sheraz@newtales.co' into element: ('id', 'email')
-[32mINFO    [0m LoginPage:base_page.py:30 Entered 'admin123/?' into element: ('id', 'password')
-[32mINFO    [0m LoginPage:login_page.py:10 Entered credentials for email: sheraz@newtales.co
-[32mINFO    [0m LoginPage:base_page.py:20 Clicked element: ('xpath', "//button[@type='submit']")
-[32mINFO    [0m LoginPage:login_page.py:19 Clicked on continue button
